@@ -1,0 +1,42 @@
+#### Appointment
+IP: 10.129.36.245
+Task 1
+What does the acronym SQL stand for? Structered Query Language
+
+Task 2 
+What is one fo the most common type of SQL vulnerabilities? SQL Injection
+
+Task 3
+What is the 2021 OWASP Top 10 classifcation for this vulnerability? A03:2021-Injection
+
+
+
+Task 4 
+What does Nmap report as the service and version that are running on port 80 of the target? Apache httpd 2.4.38 ((Debian))
+
+Task 5
+What is the standard port used for the HTTPS protocol? 443
+
+Task 6
+What is the folder called in web-application terminology? Directory
+
+Task 7
+What is the HTTP response code is given for ‘Not Found' errors? 404
+
+Task 8
+Gobuster is one tool used to brute force directories on a webserver. What switch do we use with gobuster to specify we're looking to discover directories, and not subdomains? dir
+
+Task 9 
+What single character can be used to comment out the rest of a line in MySQL? #
+ 
+ 
+ 
+ 
+used admin'# which canceled out the password check and closed the query returning a 1 which lets me have access.
+ 
+ 
+Task 10
+if user input is not handled carfully, it could be interpreted as a comment. Use a comment to login as adming without knowing the password. What is the first word on the webpage returned? Congratulations
+
+Flag: e3d0796d002a446c0E622226f42e9672
+

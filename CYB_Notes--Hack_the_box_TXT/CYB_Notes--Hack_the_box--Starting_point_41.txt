@@ -1,0 +1,6 @@
+### Starting point
+Meow - running basic nmap scipts and telnet
+Fawn - about ftp
+dancing -About SMB
+Redeemer- Redis
+

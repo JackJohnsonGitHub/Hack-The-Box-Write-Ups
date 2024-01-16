@@ -1,0 +1,47 @@
+#### Fawn
+10.129.231.216
+
+Task one
+What does the 3-letter acronym FTP stand for?  file transfer protocol
+
+Task two 
+What port does the FTP service listen on usually? 21
+
+Task three
+What acronym is used for the secure version of FTP? SFTP
+
+Task four
+What is the command we ca use to send an ICMP echo request to test our connection to the target? Ping
+
+
+
+Task 5
+From your scans what version is FTP running on the target? vsftpd 3.0.3
+
+Task 6
+From your scans, what OS type is running on the target? Unix
+
+Task 7 
+What is the command we need to run in order to display the ‘ftp’ client help menu? ftp -h
+
+Task 8
+What is the username that is used over FTP when you want to log in without having an account? Anonymous
+
+password: anon123
+
+Task 9
+What is the response code we get for the FTP message ‘Login successful’? 230
+
+Task 10
+There are a couple of commands we can use to list the files and directories available on the ftp server. One is dir. What is the other common way to list files on a linux system? ls
+
+Task 11 
+What is the command used to download the file we found on the FTP server? get
+
+Flag: 035db21c881520061c53e0536e44f815
+
+
+
+
+
+
